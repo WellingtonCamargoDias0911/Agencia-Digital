@@ -2,7 +2,7 @@
 
 Bem-vindo ao projeto **Agência Digital**! Este repositório contém o código-fonte e recursos para o desenvolvimento de um site moderno de agência digital.
 
-![Apresentação do Projeto](./img/img.png)
+![Apresentação do Projeto](img/img.png)
 
 ## Sobre
 
